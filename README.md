@@ -1,5 +1,4 @@
 # Verdeckter-Datenzugriff_-_Paragraf-95a-StPO
-Ausarbeitung über verdeckten Datenzugriff von Strafverfolungsbehörden
 
 Abstract:
 Das Ziel der vorliegenden Ausarbeitung war die kritische Auseinandersetzung mit der
